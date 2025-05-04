@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. thirdparty/1. Bytebloggrebase/1. Scope.md",
+                "file": "4. Intigriti/1. DigitalOcean/target/wb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Scope"
+              "title": "wb"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "62e6912b882eb507",
   "lastOpenFiles": [
+    "5. thirdparty/1. Bytebloggrebase/1. Scope.md",
     "README.md",
     "Welcome.md",
     "bughunting/Welcome.md",
@@ -202,7 +203,6 @@
     "Others/3. Reports",
     "Others/1.My Scripts",
     "Others",
-    "5. thirdparty/1. Bytebloggrebase/1. Scope.md",
     "5. thirdparty/1. Bytebloggrebase",
     "5. thirdparty/README.md.md",
     "4. Intigriti/1. DigitalOcean/target/1. .cloudways.com.md",
