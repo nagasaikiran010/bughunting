@@ -11,14 +11,10 @@
             "id": "62e6912b882eb507",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bughunting/Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -171,6 +167,42 @@
   },
   "active": "62e6912b882eb507",
   "lastOpenFiles": [
-    "bughuning"
+    "bughunting/Welcome.md",
+    "Welcome.md",
+    "README.md",
+    "Others/2. OLD/Bugs/1. LFI/Report.md",
+    "Others/2. OLD/Bugs/1. LFI/LFI.md",
+    "Others/2. OLD/Recon/TBHMv4 Recon.pdf",
+    "Others/2. OLD/Recon/Pasted image 20240613091230.png",
+    "Others/2. OLD/Recon/100 $ Recon.md",
+    "Others/2. OLD/Bugs/Subdomain Takeover.md",
+    "Others/2. OLD/Bugs/origin IP FOUND.md",
+    "Others/2. OLD/Recon/1. Subdomains.md",
+    "Others/2. OLD/Bugs/1. LFI",
+    "Others/2. OLD/TOP_100_Vulnerabilities_Step_by_Step_Guide_Handbook.pdf",
+    "Others/2. OLD/Recon",
+    "Others/2. OLD/notifications.md",
+    "Others/2. OLD/README.md",
+    "Others/2. OLD/links or urls.md",
+    "Others/2. OLD/List Of Bugs.md",
+    "Others/2. OLD/High-Severity Vulnerability.md",
+    "Others/2. OLD/Extensions.md",
+    "Others/2. OLD/Bugs",
+    "Others/3. Reports/3. Standard Template - 2.md",
+    "Others/3. Reports/README.md",
+    "Others/3. Reports/2. Standard report.md",
+    "Others/1.My Scripts/README.md",
+    "Others/3. Reports/1. Email format.md",
+    "Others/1.My Scripts/nuclei - subdomain-takeover - detect-all-takeovers.yaml.md",
+    "Others/2. OLD",
+    "Others/3. Reports",
+    "Others/1.My Scripts",
+    "Others",
+    "5. thirdparty/1. Bytebloggrebase/1. Scope.md",
+    "5. thirdparty/1. Bytebloggrebase",
+    "5. thirdparty/README.md.md",
+    "4. Intigriti/1. DigitalOcean/target/1. .cloudways.com.md",
+    "4. Intigriti/1. DigitalOcean/target/wb.md",
+    "4. Intigriti/1. DigitalOcean/2. Out of scope.md"
   ]
 }
