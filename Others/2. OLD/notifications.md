@@ -1,5 +1,5 @@
 ```
-slack:
+slack: khfirejghie
   - id: "slack"
     slack_channel: "recon"
     slack_username: "test"
