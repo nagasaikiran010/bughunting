@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/1.My Scripts/nuclei - subdomain-takeover - detect-all-takeovers.yaml.md",
+                "file": "Others/2. OLD/links or urls.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nuclei - subdomain-takeover - detect-all-takeovers.yaml"
+              "title": "links or urls"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "62e6912b882eb507",
   "lastOpenFiles": [
+    "Others/2. OLD/High-Severity Vulnerability.md",
+    "Others/1.My Scripts/README.md",
+    "Others/1.My Scripts/nuclei - subdomain-takeover - detect-all-takeovers.yaml.md",
     "1.Yeswehack/1. Dailymotion/OLD/wb.md",
     "1.Yeswehack/1. Dailymotion/My Hunting/1. Subdomain Enumeration/4. Sublist3r.md",
     "5. thirdparty/1. Bytebloggrebase/1. Scope.md",
@@ -192,15 +195,12 @@
     "Others/2. OLD/README.md",
     "Others/2. OLD/links or urls.md",
     "Others/2. OLD/List Of Bugs.md",
-    "Others/2. OLD/High-Severity Vulnerability.md",
     "Others/2. OLD/Extensions.md",
     "Others/2. OLD/Bugs",
     "Others/3. Reports/3. Standard Template - 2.md",
     "Others/3. Reports/README.md",
     "Others/3. Reports/2. Standard report.md",
-    "Others/1.My Scripts/README.md",
     "Others/3. Reports/1. Email format.md",
-    "Others/1.My Scripts/nuclei - subdomain-takeover - detect-all-takeovers.yaml.md",
     "Others/2. OLD",
     "Others/3. Reports",
     "Others/1.My Scripts",
